@@ -1,0 +1,32 @@
+.calendarDay {
+  margin: 5%; }
+
+.slot {
+  height: 30px; }
+
+.time {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  text-align: right;
+  padding-right: 10px; }
+
+.span-9-of-10 {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  width: 91.4%;
+  padding-top: 30px;
+  background-color: #dfdfdf; }
+
+p {
+  color: black;
+  margin: 0;
+  padding: 0;
+  padding-left: 40px; }
+
+.on {
+  background-color: white; }
+
+/*# sourceMappingURL=style.css.map */
